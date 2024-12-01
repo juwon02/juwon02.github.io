@@ -11,6 +11,7 @@ tags:
     - Github
     - Git
     - jekyll
+pin: true
 ---
 # Github Blog 검색엔진에 노출시키기
 이제 블로그를 남들에게 보여주기 위한 첫걸음을 하겠습니다. 

@@ -11,6 +11,7 @@ tags:
     - Github
     - Git
     - jekyll
+pin: true
 ---
 
 # Github Blog에서 댓글을 달 수 있게 만들어보자

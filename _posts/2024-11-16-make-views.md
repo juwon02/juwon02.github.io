@@ -11,6 +11,7 @@ tags:
     - Github
     - Git
     - jekyll
+pin: true
 ---
 # Github Blog에 조회수 표시하기
 이제 블로그에 조회수를 확인 할 수 있도록 해보자 조회수 카운터를 확인 할 수있는 GoatCounter 사용하기
